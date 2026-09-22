@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 SmartCart Clustering System.pdf
 smartcart.ipynb
-.git/info/exclude
+.gitignore

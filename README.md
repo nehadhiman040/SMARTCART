@@ -56,3 +56,11 @@ The dataset contains **2,240 customer records** across **22 baseline attributes*
    ```bash
    git clone [https://github.com/your-username/smartcart-clustering.git](https://github.com/your-username/smartcart-clustering.git)
    cd smartcart-clustering
+
+
+### Install Dependencies:
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+### Run Analysis:
+Open and execute the Jupyter Notebook:
+jupyter notebook SmartCart_Clustering.ipynb
